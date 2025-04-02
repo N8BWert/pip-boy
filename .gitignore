@@ -1,0 +1,13 @@
+**/*.rs.bk
+.#*
+.gdb_history
+**/Cargo.lock
+**/target/*
+
+# editor files
+**/.vscode/*
+
+# Kicad files
+pip-kicad/#auto_saved_files#
+**/*.pdf
+pip-kicad/pip-kicad-backups/*

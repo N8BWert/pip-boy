@@ -1,0 +1,99 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "04f46aa7-e068-4a34-af65-9b4e77c3f3c9")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "EN"
+		(shape input)
+		(at 107.95 71.12 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right)
+		)
+		(uuid "13255461-2aec-4c6d-933b-4f934ad988ad")
+	)
+	(hierarchical_label "CSn"
+		(shape input)
+		(at 107.95 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right)
+		)
+		(uuid "29a9a677-6b55-43ea-9bb5-04b743848c59")
+	)
+	(hierarchical_label "Vcc"
+		(shape input)
+		(at 107.95 90.17 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right)
+		)
+		(uuid "5a84745e-1215-40a1-9c16-1f19ef79ef6c")
+	)
+	(hierarchical_label "SCLK"
+		(shape input)
+		(at 107.95 74.93 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right)
+		)
+		(uuid "5a8a4179-31f1-4d69-8a6b-579069fe82e7")
+	)
+	(hierarchical_label "MOSI"
+		(shape input)
+		(at 107.95 78.74 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right)
+		)
+		(uuid "5b5c837b-c6b1-4e0f-8be2-479bede5b676")
+	)
+	(hierarchical_label "MISO"
+		(shape input)
+		(at 107.95 82.55 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right)
+		)
+		(uuid "a0a6672e-240c-40d4-96b2-bc984e874d59")
+	)
+	(hierarchical_label "GND"
+		(shape input)
+		(at 107.95 93.98 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right)
+		)
+		(uuid "c1e15c30-1971-4a52-badb-200df36af5f1")
+	)
+)

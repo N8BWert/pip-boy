@@ -1,0 +1,9 @@
+[package]
+name = "common"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+defmt = "0.3.10"
+derive_builder = { git = "https://github.com/N8BWert/rust-derive-builder.git", branch = "no-std-hotfix", default-features = false }
+embedded-hal = { version = "1.0.0", features = ["defmt-03"] }
