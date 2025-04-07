@@ -5,7 +5,7 @@
 	(uuid "acd6019f-aa3a-4d6b-a4d2-21f366f478b2")
 	(paper "A4")
 	(title_block
-		(title "Module Pip Boy")
+		(title "Modular Pip Boy")
 		(rev "1")
 	)
 	(lib_symbols
@@ -3224,7 +3224,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "cc7eb407-f21b-48a4-b4bb-92e66aad3d71")
+			(uuid "cc7eb407-f21b-48a4-b4bb-92e66aad3d72")
 		)
 		(instances
 			(project ""
@@ -3424,7 +3424,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "cc7eb407-f21b-48a4-b4bb-92e66aad3d71")
+			(uuid "cc7eb407-f21b-48a4-b4bb-92e66aad3d73")
 		)
 		(instances
 			(project ""
@@ -3889,13 +3889,13 @@
 			)
 		)
 		(pin "1"
-			(uuid "60d03c02-fd8c-4741-a119-f6ea801c257f")
+			(uuid "60d03c02-fd8c-4741-a119-f6ea801c2580")
 		)
 		(pin "2"
-			(uuid "07ee6649-cfc6-4397-9894-0e38274c0a8e")
+			(uuid "07ee6649-cfc6-4397-9894-0e38274c0a8f")
 		)
 		(pin "3"
-			(uuid "59803654-25aa-45ba-87fb-4f55229009e1")
+			(uuid "59803654-25aa-45ba-87fb-4f55229009e2")
 		)
 		(instances
 			(project ""
@@ -3962,7 +3962,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "40fe994d-76dd-4fa3-a979-3bd7c7775d37")
+			(uuid "40fe994d-76dd-4fa3-a979-3bd7c7775d38")
 		)
 		(instances
 			(project ""
@@ -4162,7 +4162,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "0be2bea9-85d1-4545-8212-6be84da4e3b7")
+			(uuid "0be2bea9-85d1-4545-8212-6be84da4e3b8")
 		)
 		(instances
 			(project ""
@@ -4429,7 +4429,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "0f5d614f-3bc1-492b-acec-7643fa775d62")
+			(uuid "0f5d614f-3bc1-492b-acec-7643fa775d63")
 		)
 		(instances
 			(project ""
@@ -4496,7 +4496,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "78d24933-c121-4638-be10-98d0b7394b19")
+			(uuid "78d24933-c121-4638-be10-98d0b7394b1a")
 		)
 		(instances
 			(project ""
@@ -4697,7 +4697,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "97e85ce3-f72c-4459-8601-673b4c6e0145")
+			(uuid "97e85ce3-f72c-4459-8601-673b4c6e0146")
 		)
 		(instances
 			(project ""
